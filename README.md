@@ -1,1 +1,1 @@
-# practice_js
+# pactice JavaScript
